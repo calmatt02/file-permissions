@@ -1,2 +1,2 @@
 # file-permissions
-In this scenario, worked with Linux and various databases and tables. Applied filters to create complex queries to retrieve curated information. 
+In this scenario, worked with Linux and analyzed various directories and hidden files. Mostly just to flex how many commands I should know.
